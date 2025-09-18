@@ -8,11 +8,10 @@ const Hero = () => {
       <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center">
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-gray-900 mb-6 leading-tight">
-            <span className="text-emerald-600">AyurNexa</span> with{' '}
+            <span className="text-emerald-600">AyurNexa</span>
           </h1>
           <p className="text-xl text-gray-600 mb-8 max-w-3xl mx-auto leading-relaxed">
-            Personalized therapy recommendations, smart scheduling, and predictive health monitoring for Ayurveda centers worldwide
-          </p>
+AyurNexa is an AI powered Panchakarma management Platform that blends the timeless wisdom of Ayurveda with cutting edge technology          </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
             <button className="bg-emerald-600 hover:bg-emerald-700 text-white px-8 py-4 rounded-lg font-semibold transition-all duration-300 flex items-center gap-2 shadow-lg hover:shadow-xl transform hover:-translate-y-1"   onClick={() => window.location.href = "https://sih-land.vercel.app/"}
 >
